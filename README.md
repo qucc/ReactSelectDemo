@@ -33,7 +33,7 @@
 ```
 # Record videos
 
-## It work OK with Spotfire 14.0.4-HF-16
+## It works OK with Spotfire 14.0.4-HF-16
 [Check out this file](https://github.com/qucc/ReactSelectDemo/blob/main/hotfix_16.mp4)
 
 ## It does't work with Spotfire 14.0.4-HF-17
