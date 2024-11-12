@@ -10,7 +10,7 @@
             if (string.IsNullOrEmpty(path))
             {
                 //path = "CustomDonutChart.html";
-                path = "http://localhost:4200/index.html";
+                path = "http://localhost:3000/index.html";
             }
 
             //var bytes = GetEmbeddedResource("SpotfireDeveloper.CustomVisualsExample.webroot." + path);
