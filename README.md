@@ -31,6 +31,10 @@
             return new HttpContent(mimeType, bytes);
         }
 ```
-# screenshots
-![hotfix_16](hotfix_16.mp4)
-![hotfix_17](hotfix_17.mp4)
+# Record videos
+
+## It work OK with Spotfire 14.0.4-HF-16
+[Check out this file](https://github.com/qucc/ReactSelectDemo/blob/main/hotfix_16.mp4)
+
+## It does't work with Spotfire 14.0.4-HF-17
+[Check out this file](https://github.com/qucc/ReactSelectDemo/blob/main/hotfix_17.mp4)
